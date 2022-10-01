@@ -1,5 +1,5 @@
 img = "";
-object = [];
+objects = [];
 status = "";
 
 function preload(){
